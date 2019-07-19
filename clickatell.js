@@ -1,4 +1,3 @@
-// Write your package code here!
 import clickatell from 'clickatell-node';
 
 let count = 0;
